@@ -1,0 +1,124 @@
+<resources>
+    <string name="app_name">Katalog MovieTV</string>
+    <string name="tab_movies">Film</string>
+    <string name="tab_tvshows">Acara TV</string>
+    <string name="txt_overview">Ikhtisar</string>
+    <string name="txt_release_date">Tanggal Rilis</string>
+
+    <string name="title_movies">Judul Film</string>
+    <string name="title_tvshows">Judul Acara TV</string>
+    <string name="release_date_movies">Tanggal Rilis Film</string>
+    <string name="release_date_tvshows">Tanggal Rilis Acara TV</string>
+    <string name="overview_movies">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </string>
+    <string name="overview_tvshows">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </string>
+
+    <string name="movie_poster">Poster Film</string>
+    <string name="tvshow_poster">Poster Acara TV</string>
+
+    <string-array name="movie_title">
+        <item>The Lion King</item>
+        <item>One Piece: Stampede</item>
+        <item>The Angry Birds Movie 2</item>
+        <item>Ni No Kuni</item>
+        <item>It: Chapter Two</item>
+        <item>Ip Man 4</item>
+        <item>Frozen II</item>
+        <item>Jumanji: The Next Level</item>
+        <item>Star Wars: The Rise of Skywalker</item>
+        <item>Spies in Disguise</item>
+    </string-array>
+
+    <string-array name="movie_release_date">
+        <item>19 Juli, 2019</item>
+        <item>9 Agustus, 2019</item>
+        <item>14 Agustus, 2019</item>
+        <item>23 Agustus, 2019</item>
+        <item>6 September, 2019</item>
+        <item>18 Oktober, 2019</item>
+        <item>22 November, 2019</item>
+        <item>13 Desember, 2019</item>
+        <item>20 Desember, 2019</item>
+        <item>25 Desember, 2019</item>
+    </string-array>
+
+    <string-array name="movie_description">
+        <item>Simba mengidolakan ayahnya, Raja Mufasa, dan mengambil hati takdir kerajaannya sendiri. Tetapi tidak semua orang di kerajaan itu merayakan kedatangan anaknya yang baru. Scar, saudara lelaki Mufasa dan mantan pewaris takhta memiliki rencana sendiri. </item>
+        <item>Film ini merayakan ulang tahun anime One Piece ke-20 dan akan menjadi film ke-14 dalam franchise tersebut. </item>
+        <item>Burung-burung yang tidak bisa terbang dan babi hijau yang licik membawa daging sapi mereka ke tingkat berikutnya. </item>
+        <item>Anak sekolah menengah Yuu dan temannya Haru terlibat dalam kasus yang melibatkan teman masa kecilnya Kotona, yang memaksa mereka bolak-balik di antara dunia lain yang berbeda tetapi agak mirip dengan dunia mereka, Ni no Kuni. </item>
+        <item>27 tahun setelah mengatasi entitas supranatural jahat Pennywise, mantan anggota Klub Pecundang, yang telah tumbuh dan pindah dari Derry, disatukan kembali oleh panggilan telepon yang menghancurkan. </item>
+        <item>Ip Man 4 adalah film seni bela diri biografi Hong Kong yang akan datang yang disutradarai oleh Wilson Yip dan diproduksi oleh Raymond Wong. Ini adalah yang keempat dalam seri film Ip Man berdasarkan kehidupan grandmaster Wing Chun dengan nama yang sama dan fitur Donnie Yen mengulangi peran. </item>
+        <item>Elsa, Anna, Kristoff dan Olaf pergi jauh di hutan untuk mengetahui kebenaran tentang misteri kuno kerajaan mereka. </item>
+        <item>Spencer kembali ke dunia Jumanji, mendorong teman-temannya, kakeknya, dan temannya untuk memasuki versi yang berbeda dan lebih berbahaya untuk menyelamatkannya. </item>
+        <item>Film kelanjutan dalam franchise dan kesimpulan dari trilogi sekuel "Star Wars" serta "Skywalker Saga". </item>
+        <item>Lance dan Walter. Yang satunya adalah mata-mata yang sangat keren dan menawan, dan yang satunya lagi menciptakan gadget super keren yang digunakan Lance. Ketika suatu peristiwa terjadi, mereka harus belajar untuk saling mengandalkan satu sama lain tidak seperti sebelumnya untuk menyelamatkan dunia. </item>
+    </string-array>
+
+    <array name="movie_photo">
+        <item>@drawable/the_lion_king</item>
+        <item>@drawable/one_piece_stampede</item>
+        <item>@drawable/the_angry_birds_movie_2</item>
+        <item>@drawable/ni_no_kuni</item>
+        <item>@drawable/it_chapter_two</item>
+        <item>@drawable/ip_man_4</item>
+        <item>@drawable/frozen_ii</item>
+        <item>@drawable/jumanji_to_the_next_level</item>
+        <item>@drawable/star_wars_the_rise_of_skywalker</item>
+        <item>@drawable/spies_in_disguise</item>
+    </array>
+
+    <string-array name="tvshow_title">
+        <item>Game of Thrones</item>
+        <item>Arrow</item>
+        <item>Stranger Things</item>
+        <item>Family Guy</item>
+        <item>The Simpsons</item>
+        <item>The Flash</item>
+        <item>Marvel\'s Agents of S.H.I.E.L.D.</item>
+        <item>South Park</item>
+        <item>Supergirl</item>
+        <item>Doctor Who</item>
+    </string-array>
+
+    <string-array name="tvshow_release_date">
+        <item>17 April, 2011</item>
+        <item>10 Oktober, 2012</item>
+        <item>15 Juli, 2016</item>
+        <item>31 Januari, 1999</item>
+        <item>17 Desember, 1989</item>
+        <item>7 Oktober, 2014</item>
+        <item>24 September, 2013</item>
+        <item>13 Agustus, 1997</item>
+        <item>26 Oktober, 2015</item>
+        <item>26 Maret, 2005</item>
+    </string-array>
+
+    <string-array name="tvshow_description">
+        <item>Tujuh keluarga bangsawan berjuang untuk menguasai tanah mitos Westeros. Gesekan antara rumah-rumah mengarah ke perang skala penuh. Semua sementara kejahatan yang sangat kuno terbangun di utara terjauh. Di tengah-tengah perang, perintah militer yang diabaikan, Night\'s Watch, adalah semua yang berdiri di antara ranah manusia dan kengerian es di luarnya. </item>
+        <item>Playboy miliarder manja, Oliver Queen, hilang dan diduga tewas ketika kapal pesiarnya hilang di laut. Dia kembali lima tahun kemudian seorang pria yang berubah, bertekad untuk membersihkan kota sebagai hooded vigilante bersenjatakan busur. </item>
+        <item>Ketika seorang bocah lelaki menghilang, sebuah kota kecil mengungkap misteri yang melibatkan eksperimen rahasia, kekuatan gaib yang menakutkan, dan seorang gadis kecil yang aneh. </item>
+        <item>Seri animasi yang sakit, membingungkan, selalu salah, dan sangat mantap ini menampilkan petualangan keluarga Griffin yang disfungsional. Peter yang kikuk dan Lois yang sudah lama menderita memiliki tiga anak. Stewie, Meg dan Chris. </item>
+        <item>Bertempat di Springfield, kota rata-rata di Amerika, pertunjukan ini berfokus pada kejenakaan dan petualangan sehari-hari keluarga Simpson. Homer, Marge, Bart, Lisa dan Maggie, serta ribuan pemain virtual. </item>
+        <item>Setelah akselerator partikel menyebabkan badai aneh, Penyelidik CSI Barry Allen disambar petir dan jatuh koma. Beberapa bulan kemudian dia terbangun dengan kekuatan kecepatan super, memberinya kemampuan untuk bergerak melalui Central City seperti malaikat penjaga yang tak terlihat. </item>
+        <item>Agen Phil Coulson dari S.H.I.E.L.D. (Divisi Intervensi, Penegakan dan Logistik Tanah Air Strategis) membentuk sebuah tim agen untuk menyelidiki yang baru, yang aneh dan yang tidak diketahui di seluruh dunia, melindungi yang biasa dari yang luar biasa. </item>
+        <item>Mengikuti kesalahan dari empat siswa sekolah dasar yang tidak sopan di kota South Park, Colorado yang tenang dan tidak berfungsi. </item>
+        <item>Kara Zor-El, 24 tahun, yang ditangkap oleh keluarga Danvers ketika dia berusia 13 tahun setelah diusir dari Krypton, harus belajar merangkul kekuatannya setelah sebelumnya menyembunyikannya. Danvers mengajarinya untuk berhati-hati dengan kekuatannya, sampai dia harus mengungkapkannya selama bencana yang tak terduga, menempatkannya dalam perjalanan kepahlawanannya. </item>
+        <item>Si Dokter adalah Master Waktu: alien berusia 900 tahun dengan 2 hati, bagian dari peradaban berbakat yang menguasai perjalanan waktu. Dokter menyelamatkan planet untuk mencari nafkah, sebenarnya lebih dari hobi, dan Dokter sangat, sangat pandai dalam hal itu. </item>
+    </string-array>
+
+    <array name="tvshow_photo">
+        <item>@drawable/game_of_thrones</item>
+        <item>@drawable/arrow</item>
+        <item>@drawable/stranger_things</item>
+        <item>@drawable/family_guy</item>
+        <item>@drawable/the_simpsons</item>
+        <item>@drawable/the_flash</item>
+        <item>@drawable/shield</item>
+        <item>@drawable/south_park</item>
+        <item>@drawable/supergirl</item>
+        <item>@drawable/doctor_who</item>
+    </array>
+
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+
+</resources>
